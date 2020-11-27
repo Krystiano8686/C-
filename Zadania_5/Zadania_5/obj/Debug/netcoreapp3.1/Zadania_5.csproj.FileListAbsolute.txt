@@ -1,0 +1,13 @@
+C:\Users\kryst\Desktop\studia\c#\Zadania_5\Zadania_5\bin\Debug\netcoreapp3.1\Zadania_5.exe
+C:\Users\kryst\Desktop\studia\c#\Zadania_5\Zadania_5\bin\Debug\netcoreapp3.1\Zadania_5.deps.json
+C:\Users\kryst\Desktop\studia\c#\Zadania_5\Zadania_5\bin\Debug\netcoreapp3.1\Zadania_5.runtimeconfig.json
+C:\Users\kryst\Desktop\studia\c#\Zadania_5\Zadania_5\bin\Debug\netcoreapp3.1\Zadania_5.runtimeconfig.dev.json
+C:\Users\kryst\Desktop\studia\c#\Zadania_5\Zadania_5\bin\Debug\netcoreapp3.1\Zadania_5.dll
+C:\Users\kryst\Desktop\studia\c#\Zadania_5\Zadania_5\bin\Debug\netcoreapp3.1\Zadania_5.pdb
+C:\Users\kryst\Desktop\studia\c#\Zadania_5\Zadania_5\obj\Debug\netcoreapp3.1\Zadania_5.csprojAssemblyReference.cache
+C:\Users\kryst\Desktop\studia\c#\Zadania_5\Zadania_5\obj\Debug\netcoreapp3.1\Zadania_5.AssemblyInfoInputs.cache
+C:\Users\kryst\Desktop\studia\c#\Zadania_5\Zadania_5\obj\Debug\netcoreapp3.1\Zadania_5.AssemblyInfo.cs
+C:\Users\kryst\Desktop\studia\c#\Zadania_5\Zadania_5\obj\Debug\netcoreapp3.1\Zadania_5.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\studia\c#\Zadania_5\Zadania_5\obj\Debug\netcoreapp3.1\Zadania_5.dll
+C:\Users\kryst\Desktop\studia\c#\Zadania_5\Zadania_5\obj\Debug\netcoreapp3.1\Zadania_5.pdb
+C:\Users\kryst\Desktop\studia\c#\Zadania_5\Zadania_5\obj\Debug\netcoreapp3.1\Zadania_5.genruntimeconfig.cache
