@@ -1,0 +1,13 @@
+C:\Users\kryst\Desktop\studia\c#\Kolokwium_wariant2\Kolokwium_wariant2\obj\Debug\netcoreapp3.1\Kolokwium_wariant2.csprojAssemblyReference.cache
+C:\Users\kryst\Desktop\studia\c#\Kolokwium_wariant2\Kolokwium_wariant2\obj\Debug\netcoreapp3.1\Kolokwium_wariant2.AssemblyInfoInputs.cache
+C:\Users\kryst\Desktop\studia\c#\Kolokwium_wariant2\Kolokwium_wariant2\obj\Debug\netcoreapp3.1\Kolokwium_wariant2.AssemblyInfo.cs
+C:\Users\kryst\Desktop\studia\c#\Kolokwium_wariant2\Kolokwium_wariant2\obj\Debug\netcoreapp3.1\Kolokwium_wariant2.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\studia\c#\Kolokwium_wariant2\Kolokwium_wariant2\bin\Debug\netcoreapp3.1\Kolokwium_wariant2.exe
+C:\Users\kryst\Desktop\studia\c#\Kolokwium_wariant2\Kolokwium_wariant2\bin\Debug\netcoreapp3.1\Kolokwium_wariant2.deps.json
+C:\Users\kryst\Desktop\studia\c#\Kolokwium_wariant2\Kolokwium_wariant2\bin\Debug\netcoreapp3.1\Kolokwium_wariant2.runtimeconfig.json
+C:\Users\kryst\Desktop\studia\c#\Kolokwium_wariant2\Kolokwium_wariant2\bin\Debug\netcoreapp3.1\Kolokwium_wariant2.runtimeconfig.dev.json
+C:\Users\kryst\Desktop\studia\c#\Kolokwium_wariant2\Kolokwium_wariant2\bin\Debug\netcoreapp3.1\Kolokwium_wariant2.dll
+C:\Users\kryst\Desktop\studia\c#\Kolokwium_wariant2\Kolokwium_wariant2\bin\Debug\netcoreapp3.1\Kolokwium_wariant2.pdb
+C:\Users\kryst\Desktop\studia\c#\Kolokwium_wariant2\Kolokwium_wariant2\obj\Debug\netcoreapp3.1\Kolokwium_wariant2.dll
+C:\Users\kryst\Desktop\studia\c#\Kolokwium_wariant2\Kolokwium_wariant2\obj\Debug\netcoreapp3.1\Kolokwium_wariant2.pdb
+C:\Users\kryst\Desktop\studia\c#\Kolokwium_wariant2\Kolokwium_wariant2\obj\Debug\netcoreapp3.1\Kolokwium_wariant2.genruntimeconfig.cache
